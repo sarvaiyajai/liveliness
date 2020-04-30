@@ -1,4 +1,4 @@
-package com.app.flutter.mtpl.flutter_test_selfiecapture;
+package com.app.flutter.mtpl.selfie_ocr_mtpl;
 import android.app.Activity;
 import android.app.Application;
 import android.content.Intent;
@@ -47,7 +47,7 @@ public class FlutterTestSelfiecapturePlugin implements MethodCallHandler {
         this.delegate = delegate;
     }
     public static void registerWith(Registrar registrar) {
-        final MethodChannel channel = new MethodChannel(registrar.messenger(), "flutter_test_selfiecapture");
+        final MethodChannel channel = new MethodChannel(registrar.messenger(), "selfie_ocr_mtpl");
         SelfieDelegate delegate =
                 new SelfieDelegate(registrar.activity());
         registrar.addActivityResultListener(delegate);

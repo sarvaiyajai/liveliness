@@ -1,4 +1,4 @@
-package com.app.flutter.mtpl.flutter_test_selfiecapture;
+package com.app.flutter.mtpl.selfie_ocr_mtpl;
 import android.app.Activity;
 import android.content.Intent;
 import android.util.Log;

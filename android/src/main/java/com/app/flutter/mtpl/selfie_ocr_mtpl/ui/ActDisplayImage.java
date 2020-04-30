@@ -1,4 +1,4 @@
-//package com.app.flutter.mtpl.flutter_test_selfiecapture.ui;
+//package com.app.flutter.mtpl.selfie_ocr_mtpl.ui;
 //
 //import android.graphics.Bitmap;
 //import android.graphics.BitmapFactory;
@@ -9,7 +9,7 @@
 //import androidx.annotation.Nullable;
 //import androidx.appcompat.app.AppCompatActivity;
 //
-//import com.app.flutter.mtpl.flutter_test_selfiecapture.R;
+//import com.app.flutter.mtpl.selfie_ocr_mtpl.R;
 //
 //import java.io.File;
 //

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.app.flutter.mtpl.flutter_test_selfiecapture;
+package com.app.flutter.mtpl.selfie_ocr_mtpl;
 
 import android.app.Activity;
 import android.content.res.Resources;
@@ -26,7 +26,7 @@ import android.widget.ImageView;
 
 import androidx.annotation.RequiresApi;
 
-import com.app.flutter.mtpl.flutter_test_selfiecapture.ui.camera.GraphicOverlay;
+import com.app.flutter.mtpl.selfie_ocr_mtpl.ui.camera.GraphicOverlay;
 import com.google.android.gms.vision.face.Face;
 
 /**

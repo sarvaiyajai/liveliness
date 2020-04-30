@@ -1,4 +1,4 @@
-package com.app.flutter.mtpl.flutter_test_selfiecapture;
+package com.app.flutter.mtpl.selfie_ocr_mtpl;
 
 /**
  * Created by Jaimin Sarvaiya on 24-10-2019.

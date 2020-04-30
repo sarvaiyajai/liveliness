@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.app.flutter.mtpl.flutter_test_selfiecapture.ui.camera;
+package com.app.flutter.mtpl.selfie_ocr_mtpl.ui.camera;
 
 import android.content.Context;
 import android.graphics.Canvas;

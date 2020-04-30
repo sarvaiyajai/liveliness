@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.app.flutter.mtpl.flutter_test_selfiecapture;
+package com.app.flutter.mtpl.selfie_ocr_mtpl;
 
 import android.Manifest;
 import android.app.Activity;
@@ -43,8 +43,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
-import com.app.flutter.mtpl.flutter_test_selfiecapture.ui.camera.CameraSourcePreview;
-import com.app.flutter.mtpl.flutter_test_selfiecapture.ui.camera.GraphicOverlay;
+import com.app.flutter.mtpl.selfie_ocr_mtpl.ui.camera.CameraSourcePreview;
+import com.app.flutter.mtpl.selfie_ocr_mtpl.ui.camera.GraphicOverlay;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 import com.google.android.gms.vision.CameraSource;
